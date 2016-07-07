@@ -1,0 +1,349 @@
+
+
+.header {
+	background-color:black;
+	color:white;
+	text-align: center;
+	padding: 5px;
+	}
+
+.lewybok {
+	line-height:30px;
+    height:300px;
+    width:160px;
+    float:left;
+    padding:5px;
+    background-color: grey;}
+
+.tekst1 {
+	text-align: left;
+	color: blue;
+	font-size: 60;
+	
+}
+
+.tekst2 {
+	text-align: center;
+	font-size: 65px;
+	}
+.footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
+.przycisk{
+ background-color: white;
+    border: 2px solid black;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	 cursor: pointer;	
+	 float: right;
+	 a:hover: underline;
+	 
+}
+
+.napis{
+color:black;
+}
+
+.prawybok{
+	float: right;
+
+}
+.circle1 {
+
+    width:10px;
+    height:10px;
+    position: relative;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 2s;
+    border-radius: 50px;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+}
+.circle2 {
+
+    width: 10px;
+    height:10px;
+    position: relative;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 2s;
+    border-radius: 50px;
+    animation-delay: 0.2s;
+    animation-iteration-count: infinite;
+}
+.circle3 {
+
+    width: 10px;
+    height: 10px;
+    position: relative;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 2s;
+    border-radius: 50px ;
+    animation-delay: 0.4s;
+    animation-iteration-count: infinite;
+}
+.circle4 {
+
+    width: 10px;
+    height: 10px;
+    position: relative;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 2s;
+    border-radius: 50px;
+    animation-delay: 0.6s;
+    animation-iteration-count: infinite;
+}
+.circle5 {
+
+    width: 10px;
+    height: 10px;
+    position: relative;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 2s;
+    border-radius: 50px;
+    animation-delay: 0.8s;
+    animation-iteration-count: infinite;
+}
+.circle6{
+
+    width: 10px;
+    height: 10px;
+    position: relative;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 2s;
+    border-radius: 50px ;
+    animation-delay: 1s;
+    animation-iteration-count: infinite;
+}
+.circle7{
+
+    width: 10px;
+    height: 10px;
+    position: relative;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 2s;
+    border-radius: 50px;
+    animation-delay: 1.2s;
+    animation-iteration-count: infinite;
+}
+.circle8{
+
+    width: 10px;
+    height: 10px;
+    position: relative;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 2s;
+    border-radius: 50px;
+    animation-delay: 1.4s;
+    animation-iteration-count: infinite;
+}
+.circle9{
+
+    width:10px;
+    height:10px;
+    position: relative;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 2s;
+    border-radius: 50px;
+    animation-delay: 1.6s;
+    animation-iteration-count: infinite;
+}
+.circle10{
+
+    width: 10px;
+    height:10px;
+    position: relative;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 2s;
+    border-radius: 50px;
+    animation-delay: 1.8s;
+    animation-iteration-count: infinite;
+}
+.circle11{
+
+    width: 10px;
+    height: 10px;
+    position: relative;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 2s;
+    border-radius: 50px ;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+}
+.circle12 {
+
+    width: 10px;
+    height: 10px;
+    position: relative;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 2s;
+    border-radius: 50px;
+    animation-delay: 2.2s;
+    animation-iteration-count: infinite;
+}
+.circle13 {
+
+    width: 10px;
+    height: 10px;
+    position: relative;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 2s;
+    border-radius: 50px;
+    animation-delay: 2.4s;
+    animation-iteration-count: infinite;
+}
+.circle15 {
+
+    width: 10px;
+    height: 10px;
+    position: relative;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 2s;
+    border-radius: 50px ;
+    animation-delay: 2.6s;
+    animation-iteration-count: infinite;
+}
+.circle16 {
+
+    width: 10px;
+    height: 10px;
+    position: relative;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 2s;
+    border-radius: 50px;
+    animation-delay: 2.8s;
+    animation-iteration-count: infinite;
+}
+.circle17 {
+
+    width: 10px;
+    height: 10px;
+    position: relative;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 2s;
+    border-radius: 50px;
+    animation-delay: 3s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes example {
+0% {background-color: red;}
+25%{background-color: blue;}
+50%{background-color: green;}
+75%{background-color: yellow;}
+100%{background-color:red;}
+
+0% {top:20px;}
+
+50%{top: 100px;}
+
+100%{top:20px;}
+
+}
+
+.Row
+{
+    display: table;
+    
+    table-layout: fixed; /*Optional*/
+    border-spacing: 10px; /*Optional*/
+}
+.Column
+{
+    display: table-cell;
+    
+}
+  
+      ol {
+        list-style-type:none;
+        padding:0;
+        margin:0;
+        background-color:red;
+        font-size:18px;
+        height:2em;
+        line-height:2em;
+        text-align:center;
+      }
+      ol a {
+        display:block;
+        text-decoration:none;
+        color:black;
+        padding:0 5px;
+      }
+
+     
+      ol > li {
+        float:left;
+        width:160px;
+        margin-left:1px;
+        background-color:red;
+        height:2em;
+      }
+
+      ol > li:first-child {
+        margin-left:0;
+      }
+
+      ol > li:hover {
+        background-color:red;
+      }
+
+      ol > li:hover > a {
+        color:black;
+      }
+
+      ol > li:hover > ul {
+        display:block;
+      }
+
+    
+      ol > li > ul {
+        display:none;
+        list-style-type:none;
+        padding:0;
+        margin:0;
+      }
+
+     
+      ol > li > ul > li {
+        position:relative;
+        background-color:#EEE;
+      }
+
+   
+      ol > li > ul > li > a {
+        border-top:1px solid #FFF;
+      }
+
+      ol > li > ul > li:hover {
+        background-color:#DDD;
+      }
+
+      
+      ol > li > ul > li:hover > a {
+        color:black;
+        text-decoration: underline;
+      }
